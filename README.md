@@ -81,8 +81,8 @@ Designing structured levels that guide player movement naturally while maintaini
 ## Contact
 
 - GitHub: https://github.com/spspspspspspsps
-- Roblox: https://www.roblox.com/users/1/profile
-- Discord: @5hah
+- Roblox: https://www.roblox.com/users/2697606838/profile
+- Discord: @__vension
 
 <br />
 
