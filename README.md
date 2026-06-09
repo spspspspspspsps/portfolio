@@ -82,7 +82,7 @@ Designing structured levels that guide player movement naturally while maintaini
 
 - GitHub: https://github.com/spspspspspspsps
 - Roblox: https://www.roblox.com/users/2697606838/profile
-- Discord: @zach_attack
+- Discord: @__vension
 
 <br />
 
